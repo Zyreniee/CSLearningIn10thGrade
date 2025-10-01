@@ -1,5 +1,5 @@
 # CSLearningIn10thGrade
-It contains CSharp Form Application Codes.
+It contains CSharp Form And SQL Applications and Codes.
 
 
 Im studying at the Turkiye Eskisehir Sabiha Gokcen Vocabulary And Technical High School , 
