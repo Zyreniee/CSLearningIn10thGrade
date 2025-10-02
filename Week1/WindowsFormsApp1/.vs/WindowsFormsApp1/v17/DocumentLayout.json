@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\gunes\\onedrive\\masa\u00FCst\u00FC\\cslearningin10thgrade\\week1\\windowsformsapp1\\windowsformsapp1\\bilisimteknolojileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\bilisimteknolojileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\windowsformsapp1\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\windowsformsapp1\\ucakbakimalani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ucakbakimalani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\windowsformsapp1\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\windowsformsapp1\\bilisimteknolojileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\bilisimteknolojileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\windowsformsapp1\\ucakbakimalani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DF6A22E-3BDB-426F-B155-B4E4F71579B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ucakbakimalani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\AnaMenu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AnaMenu.cs",
+              "ToolTip": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\AnaMenu.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AnaMenu.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAywDYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-10-02T17:27:21.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UcakBakimAlani.cs",
+              "DocumentMoniker": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\UcakBakimAlani.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UcakBakimAlani.cs",
+              "ToolTip": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\UcakBakimAlani.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UcakBakimAlani.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-10-02T17:27:21.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UcakBakimAlani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\UcakBakimAlani.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UcakBakimAlani.cs",
+              "ToolTip": "C:\\Users\\sgokcen\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\UcakBakimAlani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\sgokcen\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\UcakBakimAlani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-10-02T17:27:21.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BilisimTeknolojileri.cs",
+              "DocumentMoniker": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\BilisimTeknolojileri.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BilisimTeknolojileri.cs",
+              "ToolTip": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\BilisimTeknolojileri.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\BilisimTeknolojileri.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA5wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:27:21.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BilisimTeknolojileri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\BilisimTeknolojileri.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BilisimTeknolojileri.cs",
+              "ToolTip": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\BilisimTeknolojileri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp1\\BilisimTeknolojileri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:27:22.32Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnaMenu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gunes\\OneDrive\\Masa\u00FCst\u00FC\\CSLearningIn10thGrade\\Week1\\WindowsFormsApp1\\WindowsFormsApp1\\AnaMenu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AnaMenu.cs",
+              "ToolTip": "C:\\Users\\sgokcen\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\AnaMenu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\sgokcen\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\AnaMenu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-10-02T17:27:22.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
