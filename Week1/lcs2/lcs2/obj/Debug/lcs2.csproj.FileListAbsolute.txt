@@ -1,0 +1,15 @@
+C:\Users\sgokcen\source\repos\lcs2\lcs2\bin\Debug\lcs2.exe.config
+C:\Users\sgokcen\source\repos\lcs2\lcs2\bin\Debug\lcs2.exe
+C:\Users\sgokcen\source\repos\lcs2\lcs2\bin\Debug\lcs2.pdb
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.csproj.AssemblyReference.cache
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.Form1.resources
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.Form2.resources
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.Form3.resources
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.Properties.Resources.resources
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.csproj.GenerateResource.cache
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.csproj.CoreCompileInputs.cache
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.exe
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.pdb
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.Form4.resources
+C:\Users\sgokcen\source\repos\lcs2\lcs2\obj\Debug\lcs2.Form5.resources

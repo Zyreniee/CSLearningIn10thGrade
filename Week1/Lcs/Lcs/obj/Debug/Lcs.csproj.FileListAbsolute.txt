@@ -1,0 +1,11 @@
+C:\Users\sgokcen\source\repos\Lcs\Lcs\bin\Debug\Lcs.exe.config
+C:\Users\sgokcen\source\repos\Lcs\Lcs\bin\Debug\Lcs.exe
+C:\Users\sgokcen\source\repos\Lcs\Lcs\bin\Debug\Lcs.pdb
+C:\Users\sgokcen\source\repos\Lcs\Lcs\obj\Debug\Lcs.csproj.AssemblyReference.cache
+C:\Users\sgokcen\source\repos\Lcs\Lcs\obj\Debug\Lcs.csproj.SuggestedBindingRedirects.cache
+C:\Users\sgokcen\source\repos\Lcs\Lcs\obj\Debug\Lcs.Form1.resources
+C:\Users\sgokcen\source\repos\Lcs\Lcs\obj\Debug\Lcs.Properties.Resources.resources
+C:\Users\sgokcen\source\repos\Lcs\Lcs\obj\Debug\Lcs.csproj.GenerateResource.cache
+C:\Users\sgokcen\source\repos\Lcs\Lcs\obj\Debug\Lcs.csproj.CoreCompileInputs.cache
+C:\Users\sgokcen\source\repos\Lcs\Lcs\obj\Debug\Lcs.exe
+C:\Users\sgokcen\source\repos\Lcs\Lcs\obj\Debug\Lcs.pdb
