@@ -1,0 +1,13 @@
+C:\Users\sgokcen\source\repos\mysql\mysql\bin\Debug\mysql.exe.config
+C:\Users\sgokcen\source\repos\mysql\mysql\bin\Debug\mysql.exe
+C:\Users\sgokcen\source\repos\mysql\mysql\bin\Debug\mysql.pdb
+C:\Users\sgokcen\source\repos\mysql\mysql\bin\Debug\MySql.Data.dll
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.csproj.AssemblyReference.cache
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.csproj.SuggestedBindingRedirects.cache
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.Form1.resources
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.Properties.Resources.resources
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.csproj.GenerateResource.cache
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.csproj.CoreCompileInputs.cache
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.csproj.CopyComplete
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.exe
+C:\Users\sgokcen\source\repos\mysql\mysql\obj\Debug\mysql.pdb
